@@ -1,3 +1,5 @@
+// 要点是对半径进行noise的干扰。
+
 float noiseA,start;
 float noiseMax=50;
 float zoff,phase;
